@@ -1,6 +1,6 @@
 // === ПЕРЕМЕННЫЕ ===
-VAR has_apple = 0
-VAR has_key = 0
+VAR has_apple = "0"
+VAR has_key = "0"
 
 -> check_status
 
@@ -104,4 +104,5 @@ GAME: "Кажется, оно только что упало с дерева."
         -> DONE
 
 }
+
 
